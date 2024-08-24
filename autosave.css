@@ -1,0 +1,9 @@
+body{
+    background-color: aquamarine;
+}
+
+#inputArea{
+    height:200px;
+    width:500px;
+    margin:100px;
+}
